@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dorr/mycode/car_progect/sdl2/mycode/build-sim/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

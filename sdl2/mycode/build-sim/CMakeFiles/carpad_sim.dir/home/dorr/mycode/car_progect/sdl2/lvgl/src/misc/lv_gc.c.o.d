@@ -1,0 +1,54 @@
+CMakeFiles/carpad_sim.dir/home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_gc.c.o: \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_gc.c \
+ /usr/include/stdc-predef.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_gc.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../lv_conf_internal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/15/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../lv_conf_kconfig.h \
+ /home/dorr/mycode/car_progect/sdl2/mycode/../lv_conf.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_mem.h \
+ /usr/lib/gcc/x86_64-linux-gnu/15/include/stddef.h /usr/include/string.h \
+ /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/strings.h \
+ /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+ /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_types.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_ll.h \
+ /usr/lib/gcc/x86_64-linux-gnu/15/include/stdbool.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/lv_timer.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../hal/lv_hal_tick.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../hal/../lv_conf_internal.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/lv_img_cache.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/lv_img_decoder.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../lv_conf_internal.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/lv_img_buf.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_color.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/../lv_conf_internal.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_assert.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_log.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_types.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_mem.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_math.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_area.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_fs.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_types.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/lv_draw_mask.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../draw/../misc/lv_math.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../core/lv_obj_pos.h \
+ /home/dorr/mycode/car_progect/sdl2/lvgl/src/misc/../core/../misc/lv_area.h

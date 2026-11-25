@@ -1,0 +1,3 @@
+/home/dorr/mycode/car_progect/sdl2/mycode/build-sim/CMakeFiles/carpad_sim.dir
+/home/dorr/mycode/car_progect/sdl2/mycode/build-sim/CMakeFiles/edit_cache.dir
+/home/dorr/mycode/car_progect/sdl2/mycode/build-sim/CMakeFiles/rebuild_cache.dir
